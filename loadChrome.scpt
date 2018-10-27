@@ -1,5 +1,5 @@
 
-set podioURL to "http://podio.com/"
+    set podioURL to "http://podio.com/"
     set harvestURL to "https://boost.harvestapp.com/"
     set basecampURL to "https://boost.basecamphq.com/"
     set pivotalURL to "https://www.pivotaltracker.com/s/projects/152543"
